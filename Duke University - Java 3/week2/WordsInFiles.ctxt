@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=WordsInFiles
+comment0.text=\r\n\ Write\ a\ description\ of\ WordsInFiles\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ addWordsFromFile()
+comment2.params=word
+comment2.target=void\ maxNumber(java.lang.String)
+comment3.params=num
+comment3.target=void\ wordsInNumFiles(int)
+comment4.params=arrList
+comment4.target=java.util.ArrayList\ removeDuplicates(java.util.ArrayList)
+comment5.params=
+comment5.target=void\ findUniqueWords()
+comment6.params=
+comment6.target=void\ printMap()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

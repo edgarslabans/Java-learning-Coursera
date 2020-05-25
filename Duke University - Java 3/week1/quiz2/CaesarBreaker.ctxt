@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CaesarBreaker
+comment1.params=input
+comment1.target=void\ countLetters(java.lang.String)
+comment2.params=cur\ fresh
+comment2.target=void\ maxIndex(int,\ int)
+comment3.params=input\ key
+comment3.target=void\ decrypt(java.lang.String,\ int)
+comment4.params=input
+comment4.target=void\ halfOfString(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
