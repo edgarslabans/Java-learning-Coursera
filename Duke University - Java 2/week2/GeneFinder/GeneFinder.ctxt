@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GeneFinder
+comment1.params=strand
+comment1.target=GeneFinder(java.lang.String)
+comment10.params=dna
+comment10.target=java.lang.String\ mystery(java.lang.String)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=data
+comment3.target=void\ parseGeneFromStrand(java.lang.String)
+comment4.params=data\ startSearchIndex
+comment4.target=int\ findEnd(java.lang.String,\ int)
+comment5.params=limit
+comment5.target=int\ longerThen(int)
+comment6.params=gen
+comment6.target=double\ getCG(java.lang.String)
+comment7.params=gen
+comment7.target=int\ howManyCTG(java.lang.String)
+comment8.params=ration
+comment8.target=int\ howManyCGRation(double)
+comment9.params=
+comment9.target=int\ getLongestGene()
+numComments=11
